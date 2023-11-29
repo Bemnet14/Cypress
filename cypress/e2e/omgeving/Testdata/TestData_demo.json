@@ -1,0 +1,16 @@
+{
+    "validCredentials": {
+      "username": "testuser@example.com",
+      "password": "testpassword123"
+    },
+    "invalidCredentials": {
+      "username": "invaliduser@example.com",
+      "password": "invalidpassword"
+    },
+    "otherData": {
+      "productName": "Example Product",
+      "searchKeyword": "example"
+    }
+    
+  }
+  

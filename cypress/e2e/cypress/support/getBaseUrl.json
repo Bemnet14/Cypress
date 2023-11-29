@@ -1,0 +1,5 @@
+{
+  "development": "https://demowebshop.tricentis.com/register",
+  "test": "https://demowebshop.tricentis.com/login",
+  "production": "https://www.example.com"
+}
